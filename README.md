@@ -1,1 +1,2 @@
-THis is the code for my chess game in python
+# Chess game code
+This is the code for my chess game in python
